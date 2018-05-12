@@ -1,0 +1,30 @@
+_repo: Mending-and-Repair-of-Books_39075
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Stiles, Gertrude
+    gutenberg_agent_id: '39807'
+    url: http://www.gutenberg.org/2009/agents/39807
+covers:
+- cover_type: archival
+  image_path: 39075-h/images/i_cover.png
+creator:
+  author:
+    agent_name: Brown, Margaret Wright
+    gutenberg_agent_id: '39824'
+    url: http://www.gutenberg.org/2009/agents/39824
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39075'
+  lccn: '21002312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding -- Repairing'
+- !lcc 'Z'
+title: Mending and Repair of Books
+url: http://www.gutenberg.org/ebooks/39075
